@@ -1,4 +1,6 @@
-# 👋🏼 Hello and welcome! I'm Anton,
+# 👋🏼
+# Hello and welcome!
+# I'm Anton,
 # C/C++ developer 
 # currently residing in Dimi, Georgia.
 ***
