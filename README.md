@@ -2,7 +2,7 @@
 # Hello and welcome!
 # I'm Anton,
 # C/C++ developer 
-# currently residing in Dimi, Georgia.
+# currently, residing in Dimi, Georgia.
 ***
 # I've been studying at [42School](https://42.fr/en/homepage/) for a couple of years now, 
 # and [here is the list](https://github.com/itonyluke/21_42_school_projects) of the projects that I accomplished while studying there.
