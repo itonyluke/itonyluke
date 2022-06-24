@@ -11,7 +11,7 @@
 ***
 # The fastest way to reach me is
 # telegram: @pantondev
-###### or
+# or
 # email/skype: pavliukevich.anton@gmail.com
 ***
 ###### You can also give me a call, if you like.
