@@ -10,7 +10,7 @@
 ###### *but there is just a summary of the information you can find here on GitHub and LinkedIn.
 ***
 # The fastest way to reach me is
-# telegram: @pantondev
+# telegram: [@pantondev](https://t.me/pantondev)
 # or
 # email/skype: pavliukevich.anton@gmail.com
 ***
