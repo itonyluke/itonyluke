@@ -1,6 +1,4 @@
-# 👋🏼 
-# Hello and welcome!
-# I'm Anton,
+# 👋🏼 Hello and welcome! I'm Anton,
 # C/C++ developer 
 # currently residing in Dimi, Georgia.
 ***
@@ -16,6 +14,5 @@
 ###### or
 # email/skype: pavliukevich.anton@gmail.com
 ***
-###### You can also give me a call, if you like, but who does it nowadays?:)
-###### Nevertheless, I am totally fine with that,
-###### my phone number: +995595251600
+###### You can also give me a call, if you like.
+###### +995595251600
