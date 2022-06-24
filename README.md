@@ -9,7 +9,7 @@
 # [Here is the list]() of my pet-projects,
 # my [LinkedIn](https://www.linkedin.com/in/pantondev/),
 # and my [website](https://panton.dev/)*.
-###### *but there is just a summary of the information that you can find here on github and Linkedin.
+###### *but there is just a summary of the information that you can find here on github and LinkedIn.
 ***
 # The fastest way to reach me is
 # telegram: @pantondev
