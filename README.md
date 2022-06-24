@@ -7,7 +7,7 @@
 # For the last couple of years I was studying at [42School](https://42.fr/en/homepage/), 
 # and [here is the list](https://github.com/itonyluke/21_42_school_projects) of the projects that I accomplished while studying there.
 # [Here is the list]() of my pet-projects,
-# my [Linkedin](https://www.linkedin.com/in/pantondev/),
+# my [LinkedIn](https://www.linkedin.com/in/pantondev/),
 # and my [website](https://panton.dev/)*.
 ###### *but there is just a summary of the information that you can find here on github and Linkedin.
 ***
