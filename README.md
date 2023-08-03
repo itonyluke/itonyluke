@@ -4,7 +4,7 @@
 # residing in Dimi, Georgia.
 ***
 # I learned to code by practice at [42School](https://42.fr/en/homepage/), 
-# and [here is the list](https://github.com/itonyluke/21_42_school_projects) of projects.
+# and [here is the list](https://github.com/itonyluke/21_42_school_projects) of projects I completed there.
 # [Here is the list](https://github.com/itonyluke/pet_projects) of my pet-projects,
 # and here is my [LinkedIn](https://www.linkedin.com/in/pantondev/).
 <!-- # and my [website](https://panton.dev/)*.  
