@@ -1,7 +1,7 @@
 # Hi👋🏼
 # I'm Anton,
 # Junior Software Engineer (C/C++) at [EPAM](https://www.epam.com/)  
-# residing in Dimi, Georgia.
+# residing in Georgia.
 ***
 # I learned to code by practice at [42School](https://42.fr/en/homepage/), 
 # and [here is the list](https://github.com/itonyluke/21_42_school_projects) of projects I completed there.
