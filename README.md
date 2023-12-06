@@ -1,6 +1,6 @@
 # Hi👋🏼
 # I'm Anton,
-# Junior Software Engineer (C/C++) at [EPAM](https://www.epam.com/)  
+# Software Engineer (C/C++) at [EPAM](https://www.epam.com/)  
 # residing in Georgia.
 ***
 # I learned to code by practice at [42School](https://42.fr/en/homepage/), 
@@ -14,7 +14,6 @@
 # telegram: [@pantondev](https://t.me/pantondev)
 # or
 # email/zoom/skype: pavliukevich.anton@gmail.com
-###### You can also give me a call, if you like: +995 595 25 1600
 
 ***
 # My current knowledge and IT skills span the realms of:
